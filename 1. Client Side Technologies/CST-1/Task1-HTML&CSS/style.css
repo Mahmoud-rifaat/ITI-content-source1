@@ -1,0 +1,78 @@
+/*General styling*/
+
+body{
+    background-color: aquamarine;
+}
+
+a{
+    color: black;
+}
+
+ol{
+    list-style:upper-roman;
+}
+
+/*Home Page styling*/
+
+
+#home-page-heading{
+    text-align: right;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+/*Main Page styling*/
+
+#top,
+.content-header,
+.underlined-text
+{
+    text-decoration: underline;
+}
+
+
+.headers-div{
+    text-align: center;
+}
+
+.content-div{
+    text-align: left;
+}
+
+.gif-div{
+    text-align: center;
+}
+
+.next-link{
+    text-align: right;
+}
+
+.bold-text{
+    font-weight: bold;
+}
+
+.italic-text{
+    font-style: italic;
+}
+
+.different-font-text{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.different-size-text{
+    font-size: smaller;
+}
+
+.different-color-text{
+    color: red;
+}
+/*Login Page styling*/
+
+
+
+
+/*Entertainment Page styling*/
+
+.img-map{
+    text-align: center;
+}
