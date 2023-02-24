@@ -20,6 +20,10 @@ ol{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.home-page-img{
+    text-align: center;
+}
+
 
 /*Main Page styling*/
 
@@ -75,4 +79,17 @@ ol{
 
 .img-map{
     text-align: center;
+}
+
+#entertainments-page-link{
+    text-align: center;
+}
+
+#contact-us-div{
+    text-align: center;
+}
+
+#email-us-img{
+    width: 120px;
+    height: 40px;
 }
