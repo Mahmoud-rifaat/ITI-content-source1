@@ -93,3 +93,49 @@ ol{
     width: 120px;
     height: 40px;
 }
+
+/*Registeration Page Styling*/
+
+
+/*box-shadow: H-shadow V-shadow Blur Spread Color Inset.*/
+
+div>form{
+    display: inline-block;
+    text-align: center;
+    margin-top: 50px;
+}
+
+table,tr,td{
+    text-align: left;
+}
+
+table{
+    border-top: 10px solid #78f4ca;
+    border-left: 10px solid #78f4ca;
+    border-right: 10px solid #6acfad;
+    border-bottom: 10px solid #6acfad;
+}
+
+td{
+    border-top: 1px solid #52aa8c;
+    border-left: 1px solid #52aa8c;
+    border-bottom: 1px solid #71eac1;
+    border-right: 1px solid #71eac1;
+}
+
+.centered{
+    text-align: center;
+}
+
+.bold-text{
+    font-weight: bold;
+}
+
+#day-input,#year-input{
+    width:3em;
+}
+
+#interests-label{
+    text-decoration: underline;
+    font-size: 1.2em;
+}
